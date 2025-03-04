@@ -7,7 +7,7 @@
 ## 1. Background in Quantitative Finance
 
 courses: algorithms, data structures, linear algebra, calculus I & II, financial management, financial economics, money and banking, financial & managerial accounting
-programming languages: python, C++, R
+programming languages: python, C++, R.
 experience: started doing long term stock investments since Dec 2023.
 sidenote: I'm also in a machine learning & data science bootcamp right now which teaches me python skills, AI fundamentals, math & stats fundamentals about AI, and I will do a few projects after my learning.
 
